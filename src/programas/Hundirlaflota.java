@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author isard
  */
-public class Hundirlaflota {
+public class hundirbarco {
 
     /*
      * Leyenda de los codigos internos
