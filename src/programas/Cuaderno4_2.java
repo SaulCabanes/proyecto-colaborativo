@@ -20,7 +20,7 @@ public class Cuaderno4_2{
     public static void main(String[] args) {
 
         System.out.println(
-                "Programa para jugar a minijuegos (introduce el numero entero de la opcion que quieres elegir) ");
+                "Programa para jugar a buscaminas (introduce el numero entero de la opcion que quieres elegir) ");
         System.out.println("");
         double respuesta = 0;
         int respuesta_int = 0;
